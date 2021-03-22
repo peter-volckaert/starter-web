@@ -1,3 +1,3 @@
 # Starter Web Repo
 
-This one should be in the committed repo
+This one is simply in the working area 
