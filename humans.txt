@@ -1,6 +1,5 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-HANGFE
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -13,3 +12,4 @@ HANGFE
 
     HTML5, CSS3
     jQuery, Modernizr
+Kleine update
